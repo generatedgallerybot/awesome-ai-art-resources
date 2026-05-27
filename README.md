@@ -36,7 +36,16 @@ This is intentionally focused on useful browsing, prompt study, provenance, and 
 ## Portable image packs
 
 - [Machine Dream Finds](https://generatedgallery.com/machine-dream-finds) - small themed AI image packs with prompt fragments, source trails, safety labels, and manifests.
+- [Haunted Product Catalog](https://generatedgallery.com/gallery/3eeddb85-c41f-4b3a-8d78-d064524ed9fa) - a Machine Dream Finds example pack with luxury objects, cursed studio lighting, prompts, and source trails.
 - [Generated Gallery Creator Kit](https://generatedgallery.com/protocol/creator-kit) - guide for publishing AI image packs that another viewer or agent can inspect.
+
+## Dataset and protocol quick links
+
+- [Protocol docs](https://generatedgallery.com/protocol) - portable generated-media record format.
+- [Creator kit](https://generatedgallery.com/protocol/creator-kit) - how to publish small AI image packs.
+- [Manifest](https://generatedgallery.com/index/manifest.json) - current feed metadata, checksum, record count, and schema links.
+- [SFW JSONL export](https://generatedgallery.com/index/generated-gallery.jsonl.gz) - compressed public metadata feed.
+- [Prompt-only export](https://generatedgallery.com/index/generated-gallery.prompts.jsonl.gz) - prompt and label focused split for lightweight analysis.
 
 ## What makes a resource useful here?
 
