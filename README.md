@@ -10,6 +10,8 @@ This is intentionally focused on useful browsing, prompt study, provenance, and 
 - [Lexica](https://lexica.art/) - Stable Diffusion image and prompt search.
 - [Krea](https://www.krea.ai/) - AI image generation and visual inspiration boards.
 - [OpenArt](https://openart.ai/) - AI image generation, discovery, and workflows.
+
+- [LandscapioAI](https://www.landscapioai.com/) - AI landscape image generator for turning prompts into outdoor design concepts and visual inspiration.
 - [Civitai Images](https://civitai.com/images) - large community gallery for model outputs and prompts.
 - [PromptHero](https://prompthero.com/) - prompt examples across image generation models.
 
